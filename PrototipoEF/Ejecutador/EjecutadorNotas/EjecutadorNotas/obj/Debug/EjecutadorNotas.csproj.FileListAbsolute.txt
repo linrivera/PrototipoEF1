@@ -1,0 +1,17 @@
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\EjecutadorNotas.exe.config
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\EjecutadorNotas.exe
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\EjecutadorNotas.pdb
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaPresentacion.exe
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaNegocio.dll
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaEntidad.dll
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaDatos.dll
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaPresentacion.pdb
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaPresentacion.exe.config
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaNegocio.pdb
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaEntidad.pdb
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\bin\Debug\CapaDatos.pdb
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\obj\Debug\EjecutadorNotas.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\obj\Debug\EjecutadorNotas.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\obj\Debug\EjecutadorNotas.csproj.CopyComplete
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\obj\Debug\EjecutadorNotas.exe
+C:\Users\linri\Desktop\PrototipoEF\PrototipoEF\Ejecutador\EjecutadorNotas\EjecutadorNotas\obj\Debug\EjecutadorNotas.pdb

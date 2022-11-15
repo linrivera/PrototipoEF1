@@ -1,0 +1,9 @@
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaDatos\obj\Debug\CapaDatos.pdb

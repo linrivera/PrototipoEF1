@@ -1,0 +1,11 @@
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\linri\Desktop\Proyecto de mario\Nueva carpeta (28)\JGSchool\CapaNegocio\obj\Debug\CapaNegocio.pdb
